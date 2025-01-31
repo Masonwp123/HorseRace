@@ -1,0 +1,12 @@
+# Ignore all files by default, but scan all directories
+*
+!*/
+
+# C/C++ source files
+!*.c
+!*.cpp
+!*.h
+!*.hpp
+
+# Readme
+!*README.md
